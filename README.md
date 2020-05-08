@@ -63,3 +63,12 @@ you write link of the pic and write src= with it.  alt is for blind people. The 
 
 CSS_basics
 -----------
+```
+<head>
+  <style>
+    body {
+    background-color: rgb(235, 130, 103                 );}
+            p {
+                color: rgb(245, 233, 245);}
+   </style>
+</head>
