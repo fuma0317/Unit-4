@@ -32,3 +32,13 @@ HTML_basics
    </body>
 <html>
 ```
+**Text emphasis**
+```
+<em>くぁwせdrftgyふじこlp</em>
+```
+This shows Italic words
+
+```
+<strong>くぁwせdrftgyふじこlp</strong>
+```
+This shows bold words and they can be combined.
