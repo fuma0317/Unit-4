@@ -74,3 +74,16 @@ CSS_basics
    </style>
 </head>
 ```
+**Selecting by id**
+```
+<h1 id="info-about-Japan">Info!</h1>
+```
+This is how we set the id for elements
+
+```
+<style>
+  #info-about-Japan {
+    color: purple;
+    }
+```
+This is how we use the id
