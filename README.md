@@ -17,3 +17,18 @@ HTML_basics
 
 </html>
 ```
+
+**Simple page with title and some sentences**
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My poem</title>
+   </head>
+   <body>
+    <h1>My heading<h2>
+    <p>Example paragrapgh</p>
+   </body>
+<html>
+```
