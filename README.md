@@ -10,3 +10,10 @@ Contents
 
 HTML_basics
 ------------
+**How to start the program**
+```
+<!DOCTYPE html>
+<html>
+
+</html>
+```
