@@ -32,8 +32,9 @@ HTML_basics
    </body>
 <html>
 ```
-head is used for the part of title line. We have various sizes of titles from h1 to h6. <h1> is the biggest.  <p> is for writing paragraph with normal letters. <br> stands for "break" and it enables to start on a new line.
-  
+```
+<head> is used for the part of title line. We have various sizes of titles from h1 to h6. <h1> is the biggest.  <p> is for writing paragraph with normal letters. <br> stands for "break" and it enables to start on a new line.
+```
 **Text emphasis**
 ```
 <em>くぁwせdrftgyふじこlp</em>
