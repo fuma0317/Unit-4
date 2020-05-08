@@ -52,4 +52,4 @@ This shows bold words and they can be combined.
 
 **Lists**
 
-![listinput](htmllist.png)
+![listinput](htmllist.JPG)
