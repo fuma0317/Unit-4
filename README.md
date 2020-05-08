@@ -4,11 +4,11 @@
 
 Contents
 ------------
-1. (Basic skills for HTML)[HTML_basics]
+1. (Basic skills for HTML)[HTMLbasics]
 1. (Basic skills for CSS)[CSS_basics]
 
 
-HTML_basics
+HTMLbasics
 ------------
 **How to start the program**
 ```
