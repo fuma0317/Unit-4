@@ -75,6 +75,7 @@ CSS_basics
 </head>
 ```
 **Selecting by id**
+id only can be used for one element. 
 ```
 <h1 id="info-about-Japan">Info!</h1>
 ```
@@ -87,3 +88,18 @@ This is how we set the id for elements
     }
 ```
 This is how we use the id
+
+**Selecting by class**
+class can be used for multiple elements
+```
+<p class="architecture">architecture is art</p>
+```
+This is how we set the class for elements
+
+```
+<style>
+.architecture {
+  color: rgb(0, 0, 0);
+    }
+</style>
+```
