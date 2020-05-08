@@ -54,3 +54,9 @@ This shows bold words and they can be combined.
 
 ![listinput](htmllist.JPG)
 ![listoutput](httmllist2.JPG)
+
+**Images**
+```
+<img src="URL OF PIC" alt="food" width="200"
+```
+you write link of the pic and write src= with it.  alt is for blind people. The automatic reading system would say "food" instead of pic. And you can arrange the size of pic with "width" and "height" 
