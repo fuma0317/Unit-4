@@ -159,7 +159,11 @@ For internal link, you use id instead of URL
         </table>
 ```
 **Comments**
+Input
 ```
 <!-- Hello, world -->
 ```
-
+Output
+```
+Hello, world
+```
