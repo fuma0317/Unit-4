@@ -206,7 +206,7 @@ font-style is different from font-family. It is used for bold or italic
             background-color: yellow;
             font: italic 13px fantasy;
         }
-        ```
+```
 You can shorten the properties of fonts in one row as above.        
      
  
