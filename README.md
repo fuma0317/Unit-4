@@ -128,4 +128,33 @@ In between <a> and </a>, type the sentence that turns into click button for URL.
  </body>
 ```
 For internal link, you use id instead of URL
-  
+**HTML table**
+```
+<table>
+            <thead>
+                <tr>
+                    <th>Pet name</th>
+                    <th>Species</th>
+                    <th>Color</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Black & white</td>
+                    <td>rabbit</td>
+                    <td>black and white</td>
+                </tr>
+                <tr>
+                    <td>Daemon</td>
+                    <td>cat</td>
+                    <td>black</td>
+                </tr>
+                <tr>
+                    <td>Angel</td>
+                    <td>cat</td>
+                    <td>orange</td>
+                </tr>
+            </tbody>
+        </table>
+```
+
