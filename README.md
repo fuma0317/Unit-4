@@ -6,6 +6,8 @@ Contents
 ------------
 1. [Basic skills for HTML](#HTML_basics)
 1. [Basic skills for CSS](#CSS_basics)
+1. [More tags for HTML](#HTML_advance)
+
 
 
 HTML_basics
@@ -102,4 +104,16 @@ This is how we set the class for elements
   color: rgb(0, 0, 0);
     }
 </style>
+```
+
+HTML_advance
+-----
+**HTML links**
+```
+<a target="_blank" href="URL of webpage">Please click here!!</a>
+```
+```
+With target="_blank", users get a choice if they open the new page or not by themselves. 
+"href" stands for hyper reference. So you put a link there.
+In between <a> and </a>, type the sentence that turns into click button for URL.
 ```
