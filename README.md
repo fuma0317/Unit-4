@@ -117,3 +117,15 @@ With target="_blank", users get a choice if they open the new page or not by the
 "href" stands for hyper reference. So you put a link there.
 In between <a> and </a>, type the sentence that turns into click button for URL.
 ```
+**HTML internal links**
+```
+<body>
+  <ul>
+    <li><a href="#history-Python"</a></li>
+  <ul>
+  
+  <h2 id="history-Python">History of Python!!</h2>
+ </body>
+```
+For internal link, you use id instead of URL
+  
