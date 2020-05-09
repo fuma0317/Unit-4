@@ -170,3 +170,10 @@ Hello, world
 ```
 CSS-Properties
 ----
+**Fonts**
+```
+p {
+            color: rgb(191, 0, 255);
+            font-family: "Helvetica", sans-serif;
+        }
+```
