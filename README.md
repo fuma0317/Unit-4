@@ -37,8 +37,7 @@ HTML_basics
 ```
 ```
 <head> is used for ssetting language or name f the page. 
-We have various sizes of titles from h1 to h6.
-<h1> is the biggest.  
+We have 6 titles from h1 to h6.
 <p> is for writing paragraph with normal letters. 
 <br> stands for "break" and it enables to start on a new line.
 ```
