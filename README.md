@@ -33,7 +33,7 @@ HTML_basics
 <html>
 ```
 ```
-<head> is used for the part of title line. 
+<head> is used for ssetting language or name f the page. 
 We have various sizes of titles from h1 to h6.
 <h1> is the biggest.  
 <p> is for writing paragraph with normal letters. 
