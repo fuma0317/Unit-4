@@ -188,3 +188,25 @@ body {
 ```
 you can arrage the size of letters with px or em. em is relative with other font size.
 1.5em means 1.5times bigger.
+
+**Font style**
+```
+.song-lyrics {
+            background-color: yellow;
+            font-family: fantasy;
+            font-size: 13px;
+            font-style: italic;
+        }
+ ```
+font-style is different from font-family. It is used for bold or italic
+
+**Shorthand**
+```
+.song-lyrics {
+            background-color: yellow;
+            font: italic 13px fantasy;
+        }
+        ```
+You can shorten the properties of fonts in one row as above.        
+     
+ 
