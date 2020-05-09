@@ -128,6 +128,7 @@ In between <a> and </a>, type the sentence that turns into click button for URL.
  </body>
 ```
 For internal link, you use id instead of URL
+
 **HTML table**
 ```
 <table>
