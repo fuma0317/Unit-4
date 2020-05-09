@@ -176,3 +176,15 @@ p {
             font-family: "Helvetica", sans-serif;
         }
 ```
+**Font sizes**
+```
+body {
+            font-size: 12px;
+        }
+        h2 {
+            color: rgb(0, 232, 15);
+            font-size: 1.5em;
+        }  
+```
+you can arrage the size of letters with px or em. em is relative with other font size.
+1.5em means 1.5times bigger.
