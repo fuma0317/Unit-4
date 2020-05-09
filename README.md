@@ -199,7 +199,11 @@ you can arrage the size of letters with px or em. em is relative with other font
         }
  ```
 font-style is different from font-family. It is used for bold or italic
+But you want to use bold, do this
+```
+font-weight: bold;
 
+```
 **Shorthand**
 ```
 .song-lyrics {
@@ -208,5 +212,4 @@ font-style is different from font-family. It is used for bold or italic
         }
 ```
 You can shorten the properties of fonts in one row as above.        
-     
- 
+
