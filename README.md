@@ -7,6 +7,7 @@ Contents
 1. [Basic skills for HTML](#HTML_basics)
 1. [Basic skills for CSS](#CSS_basics)
 1. [More tags for HTML](#HTML_advance)
+1. [More properties for CSS](#CSS-Properties)
 
 
 
@@ -167,3 +168,5 @@ Output
 ```
 Hello, world
 ```
+CSS-Properties
+----
