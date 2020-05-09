@@ -158,4 +158,8 @@ For internal link, you use id instead of URL
             </tbody>
         </table>
 ```
+**Comments**
+```
+<!-- Hello, world -->
+```
 
