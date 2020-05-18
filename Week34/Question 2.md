@@ -71,4 +71,4 @@ function func2(inp) {
             }
 ```
 
-
+Sometimes doesn't count, sometimes does.  I made such a moody code.
