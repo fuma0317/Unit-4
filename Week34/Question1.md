@@ -37,32 +37,34 @@
 <script>
     function func1(message){
          let para;
-        var input_message = document.getElementById(message).value;
+         let input_message = document.getElementById("enter_word").value;
          var str = input_message;
          str.split('');
          var inl = [];
          inl.push(str);
-         var first = str[0];
+
          var ostr;
         // if the first letter is vowel, print the word + -way
-        if (first === "a" || "i" || "u" || "e" || "o") {
+        if (inl[0] === "a" || "i" || "u" || "e" || "o") {
             ostr = input_message + "-way";
             para = document.createElement("P");
             para.innerText = ostr;
             document.getElementById("output").appendChild(para);
+            console.log(ostr);
         }
         // if the first letter is not vowel, move the first letter and add -ay and print it
         else{
-            var str2 = str.filter(function (value) {
-                return value === str[0]
+            var str2 = inl.filter(function (value) {
+                return value === inl[0]
             });
             //delete first letter
-            var str3 = str.shift();
+            var str3 = inl.shift();
             var str4 = str3.join(','); //join into a string
             ostr = str4 + str2 + "-ay";
             para = document.createElement("P");
             para.innerText = ostr;
             document.getElementById("output").appendChild(ostr);
+            console.log(ostr)
         }
     }
 </script>
