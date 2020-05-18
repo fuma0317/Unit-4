@@ -3,7 +3,7 @@
 ![vowel](vowel_counter.JPG)
 
 ## HTML, CSS code ##
-```.py
+```.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,7 +38,7 @@
 
 ```
 ## javascript code ##
-```.py
+```.html
 function func2(inp) {
         let text = document.getElementById("input_message").value; //get input
         let targetStr_a = "a";
