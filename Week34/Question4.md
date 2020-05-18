@@ -31,6 +31,13 @@
 ```
 
 ## Javascript code ##
-```.py
-
+```.html
+<script>
+    function func3() {
+        let text = document.getElementById("input_message").value; //get input
+        let para = document.createElement("P");
+        para.innerText = text;
+        document.getElementById("output").appendChild(para);
+    }
+</script>
 ```
