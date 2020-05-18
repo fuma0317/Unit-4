@@ -3,7 +3,7 @@
 ![palindrome](palindrome.JPG)
 
 ## HTML, CSS code ##
-```.py
+```.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +30,7 @@
 </body>
 ```
  ## Javacript code ##
- ```.py
+ ```.html
  <script>
     function palindrome(str) {
         let text = document.getElementById("input_message").value; //get input
