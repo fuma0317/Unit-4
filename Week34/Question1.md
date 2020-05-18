@@ -3,7 +3,7 @@
 ![piglatin](Pig_latin.JPG)
 
 ## Code for pig latin ##
-```
+```.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
