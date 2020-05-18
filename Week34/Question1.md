@@ -70,4 +70,4 @@
 </script>
 </html>
 ```
-It is not showing a output for some reasons. I have no idea
+It somehow always shows @@@-way even if the word start with a consonant
