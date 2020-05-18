@@ -3,7 +3,7 @@
 ![vowel](vowel_counter.JPG)
 
 ## HTML, CSS code ##
-```
+```.py
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,7 +36,7 @@
 
     </div>
 
-```.py
+```
 
 
 
