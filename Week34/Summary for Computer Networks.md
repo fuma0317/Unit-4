@@ -1,4 +1,5 @@
 # Computer Networks #
+```
 
 The first computer appeared in the 1950s and 60s.
 They were generally used within an organization 
@@ -12,3 +13,4 @@ Ethernet enables to avoid collision of data transmisssion
 by detecting a collision and wait for a brief period before attempting to re-transmit 
 (random peirod) so it won't be at the same time.
 
+```
